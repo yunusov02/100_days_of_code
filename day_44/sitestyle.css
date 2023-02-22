@@ -1,0 +1,108 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+h1 {
+    font-size: 90px;
+    width: 10%;
+    display: inline;
+    margin-top: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.asilbek {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
+
+.personal {
+    font-family: cursive;
+}
+
+h1, h2 {
+    color: #66BFBF;
+}
+
+.bottom-container {
+    background-color: #11999F;
+    padding: 20px;
+    margin: 0;
+}
+
+.bottom-container p {
+    margin: 0;
+    padding: 0;
+    margin-top: 15px;
+}
+.footer-link {
+    text-decoration: none;
+    color: #084144;
+    display: inline-block;
+    margin: 10px, 50px;
+}
+
+
+.middle-container {
+    width: 80%;
+    margin: 0 10%;
+}
+
+.skill-row {
+    position: relative;
+    box-sizing: border-box;
+}
+
+.left-png {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px;
+}
+
+.left-desc { 
+    float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px;
+}
+
+.right-png {
+    position: absolute;
+    width: 40%;
+    float: left;
+    display: block;
+}
+
+.right-desc { 
+    position: absolute;
+    width: 60%;
+    float: left;
+    display: block;
+}

@@ -1,0 +1,30 @@
+body, h1 , p{
+    margin: 0;
+}
+
+.top-containter {
+    background-color: red;
+    border: 10px;
+    padding: 20px;
+
+}
+.middle-container {
+    background-color: blue;
+    border: 20px;
+    margin-left: 260px;
+}
+.bottom-container {
+    background-color: green;
+    border: 10px;
+    margin-left: 500px;
+}
+
+.wid {
+    width: 200px;
+    height: 200px;
+    border-color: black;
+    border-style: solid;
+    display: block;
+}
+
+
